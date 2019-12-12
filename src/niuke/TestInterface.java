@@ -9,7 +9,6 @@ public interface TestInterface {
     public static void jj(){
 
     }
-    default void jjjj(){
-
+    default void jjjj() {
     }
 }
